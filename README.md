@@ -1,2 +1,4 @@
 # Python_Diwali_Sales_Analysis
-This GitHub repository contains a Python project dedicated to examining sales data during the Diwali festival. Diwali, celebrated as the Festival of Lights, is a significant shopping season in numerous areas. Analyzing sales patterns during this period offers valuable business insights.
+Python project for beginners- Analyze Diwali sales data to improve customer experience and sales
+
+## Watch complete tutorial video: https://www.youtube.com/watch?v=KgCgpCIOkIs
